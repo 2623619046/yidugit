@@ -7,7 +7,7 @@ public class Main {
         //注:避免代码冲突 每次提交之前先刷新
         System.out.println("萨法沙发");
 
-        System.out.println("开始看");
+        System.out.println("开始水水水水水水水");
 
     }
 }
